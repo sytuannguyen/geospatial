@@ -11,12 +11,12 @@ st.sidebar.info(
 )
 
 st.sidebar.title("Contact")
-'''st.sidebar.info(
-    
-    Qiusheng Wu: <https://wetlands.io>
+st.sidebar.info(
+    """
+    streamlit_app.py
     [GitHub](https://github.com/giswqs) | [Twitter](https://twitter.com/giswqs) | [YouTube](https://www.youtube.com/c/QiushengWu) | [LinkedIn](https://www.linkedin.com/in/qiushengwu)
-   
-)'''
+    """
+)
 
 # Customize page title
 st.title("Streamlit for Geospatial Applications")
